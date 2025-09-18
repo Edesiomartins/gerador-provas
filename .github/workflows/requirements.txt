@@ -1,1 +1,4 @@
-
+pyinstaller
+python-docx
+pillow
+requests
